@@ -18,8 +18,8 @@
   "author": "Nordic Semiconductor ASA | nordicsemi.no",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@semantic-release/commit-analyzer": "13.0.0",
-    "semantic-release": "24.2.0",
+    "@semantic-release/commit-analyzer": "13.0.1",
+    "semantic-release": "24.2.1",
     "stream-buffers": "3.0.3"
   },
   "devDependencies": {
